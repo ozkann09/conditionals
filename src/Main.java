@@ -8,6 +8,6 @@ public class Main {
         }else if (sayi==20) {
             System.out.println("Sayı 20 ye eşittir");
         }else{
-            System.out.println("Sayı 20 den büyüktür  ");
+            System.out.println("Sayı 20 den büyüktür");
             }}
         }
