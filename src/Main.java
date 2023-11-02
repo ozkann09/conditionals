@@ -5,9 +5,10 @@ public class Main {
         int sayi = 22;
         if (sayi < 20) {
             System.out.println("Sayı 20 den küçüktür");
-        }else if (sayi==20) {
+        } else if (sayi == 20) {
             System.out.println("Sayı 20 ye eşittir");
-        }else{
+        } else {
             System.out.println("Sayı 20 den büyüktür");
-            }}
         }
+    }
+}
